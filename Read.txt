@@ -2,3 +2,5 @@
 hi it's my training assignment
 
 html-assignment
+
+minor change in html assignment
